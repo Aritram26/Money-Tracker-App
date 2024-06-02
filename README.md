@@ -8,7 +8,7 @@ Money Tracker App is a simple web application that helps you track your income a
 
 ### Screenshot
 
-![App Screenshot](./images/app_screenshot.png)
+![App Screenshot](./app_screenshot.png)
 
 ### Features
 
